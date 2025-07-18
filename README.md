@@ -7,6 +7,7 @@ I love building solid, scalable systems and digging deep into how tech actually 
 🙂‍↔️ — I thrive in high-pressure build zones.<br/>
 Always curious.🤔 Always learning. Catch me in tech threads, product convos, or scaling the next side project.<br/>
 From dynamic programming to distributed systems — I can write a clean DP solution or design a REST API, and deploy it seamlessly to the cloud ☁️.<br/>
+Outside of tech, I'm passionate about F1 and Cars. 🚘
 
 
 # 💻 Tech Stack:
